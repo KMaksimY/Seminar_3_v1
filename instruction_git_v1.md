@@ -62,3 +62,16 @@ git diff --color-words
 
 Working aria for the 1st employee
 
+## Create of branch 2
+
+Working aria for the 2st employee
+
+## Create of branch 3
+
+Working aria for the 3d employee
+
+some additional info
+
+## Create of branch 4
+
+Working aria for the 4st employee
