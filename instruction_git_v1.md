@@ -79,4 +79,5 @@ Working aria for the 4th employee
 
 ## Удаленный репозиторий
 
-Important info
+Удаленные репозитории ...
+
