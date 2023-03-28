@@ -81,7 +81,7 @@ Working aria for the 4th employee
 
 Удаленные репозитории ...
 
-## Well, I chenge smth
+## Well, I change smth
 
 
 
